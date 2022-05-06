@@ -1,0 +1,22 @@
+<%- partial('_partial/head') %>
+<body style="
+<% if (theme.background.image) { %>
+  background: url(<%= theme.background.image %>) center center no-repeat;
+  background-size: contain;
+<% } %>
+<% if (theme.background.color) { %>
+  background-color: <%= theme.background.color %>
+<% } %>
+">
+  <div class="page-banner">
+      <!-- <div class="page-banner_header"></div> -->
+      <div class="page-banner_appDownload"></div>
+  </div>
+  <div id="container">
+    <%- partial('_partial/nav') %>
+    <div class="app-download-banner"></div>
+    <div id="main"><%- body %></div>
+    <%- partial('_partial/footer') %>
+  </div>
+</body>
+</html>
