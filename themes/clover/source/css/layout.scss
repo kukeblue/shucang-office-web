@@ -25,9 +25,14 @@
 
 .phone {
     width: 375px;
-    height: 450px;
-    border: 1px solid #fff;
+    height: 490px;
+    // border: 1px solid #fff;
     border-radius: 20px 20px 0 0;
+    background-image: url(https://upload.yipingxuan.net/47541fa291005f95214f08e7015e2d64.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    position: relative;
+    top: -20px;
 }
 
 // .page-banner_header {
@@ -99,6 +104,9 @@
     width: 150px;
     height: 150px;
     border: 4px solid #fff;
+    background-image: url(https://upload.yipingxuan.net/d61efa1f078ef0b5efe10db1c21c5eec.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
 
 .app-download-link-block {
@@ -106,6 +114,9 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-image: url(https://upload.yipingxuan.net/d61efa1f078ef0b5efe10db1c21c5eec.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
 
 .download-dec {

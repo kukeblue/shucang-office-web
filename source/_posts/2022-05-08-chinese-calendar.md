@@ -7,7 +7,7 @@ category:	官方公告
 tags:
   - Blog
 photos: 
-  - https://raw.githubusercontent.com/CloverTuan/Markdown_Images/master/chinese-calendar/cover-small.png
+  - https://upload.yipingxuan.net/1ee87ee8782943553f2ce847e8e5fc51.png
 ---
 一年四季，十二个月的更替，每个月都有着独特的风景，总有一些风景能带给我们不一样的回忆和感受，画了这样一个系列将这些景色记录下来，希望自己能够用心去感受生活。
 

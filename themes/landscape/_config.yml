@@ -32,7 +32,7 @@ show_count: false
 # Miscellaneous
 google_analytics:
 gauges_analytics:
-favicon: /favicon.png
+favicon: "/images/at38p-5cgbx-001.ico"
 twitter:
 google_plus:
 fb_admins:

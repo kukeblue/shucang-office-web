@@ -49,7 +49,7 @@ widgets:
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
+favicon: "/images/at38p-5cgbx-001.ico"
 twitter:
 google_plus:
 ```
