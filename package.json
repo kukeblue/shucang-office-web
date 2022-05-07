@@ -5,6 +5,12 @@
   "hexo": {
     "version": "3.9.0"
   },
+  "scripts": {
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "pm2 start ecosystem.config.js --only blog-server'",
+    "server": "hexo server"
+  },
   "dependencies": {
     "hexo": "^3.7.0",
     "hexo-deployer-git": "^0.3.1",
